@@ -1,4 +1,12 @@
 #main {
     font-size: 15px;
-    text-align: center;
+    text-align:center;
 }
+#image{
+max-width: 100%;
+align-items:center;
+display: block;
+}
+#subtitle{
+    font-size: 14px; 
+}    
