@@ -1,12 +1,20 @@
+body{  background-color:#ffe4c4;
+}
 #main {
     font-size: 15px;
     text-align:center;
 }
+#title{
+    text-align: center;
+}
 #image{
 max-width: 100%;
-align-items:center;
+align-content:center;
 display: block;
 }
-#subtitle{
+#subtitle{  
     font-size: 14px; 
-}    
+} 
+.info{
+    text-align: left;
+} 
