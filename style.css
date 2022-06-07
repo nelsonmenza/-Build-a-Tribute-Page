@@ -9,7 +9,7 @@ header{
 #main {
     font-size: 15px;
     text-align:center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 .subtitle{
     font-size: 25px; 
@@ -34,6 +34,9 @@ header{
     float:left;
     width:30%;
 }
+h2{
+    text-align: center;
+}
 .info{
     text-align: left;
 } 
@@ -45,4 +48,20 @@ header{
 }
 #img-caption2{
     text-align: center;
+}
+.videos{
+    height:315px;
+    width:560px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+h3{
+    text-align: center;
+}
+#tribute-link{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
